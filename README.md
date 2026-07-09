@@ -4,7 +4,7 @@ A beautiful, responsive anime wallpaper slider built using HTML, CSS, and JavaSc
 
 ## 🚀 Live Demo
 You can check out the live website here: 
-👉 **[https://roshankumar161161.github.io/Anime-image-slider](https://roshankumar161161.github.io/Anime-image-slider)** *(Settings -> Pages-ல் உங்க லிங்க் வந்த பிறகு இதை செக் பண்ணிக்கோங்க)*
+👉 **[https://roshankumar161161.github.io/Anime-image-slider](https://roshankumar161161.github.io/Anime-image-slider)** 
 
 ---
 
